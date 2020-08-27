@@ -52,7 +52,7 @@ This project intends to create an opinionated, performant, replicable, and produ
 
 ## Features
 
-* :clock1: [**5 Minute** Setup](,/docs/)
+* :clock1: [**5 Minute** Setup](./docs/)
 * :fire: Fast (~250ms Response Times Out-of-the-box)
 * :evergreen_tree: Alpine Linux
 * :grin: [Semver Compliant](https://semver.org/)
